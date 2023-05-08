@@ -1,6 +1,6 @@
 # Transcoding Video with S3 and Elastic Transcoder
 
-## Introduction
+# Introduction
 
 In this hands-on AWS lab, we will convert video files to different formats using Lambda, S3, and Amazon Elastic Transcoder.
 

@@ -2,7 +2,7 @@
 
 # Introduction
 
-In this hands-on AWS lab, we will convert video files to different formats using Lambda, S3, and Amazon Elastic Transcoder.
+In this hands-on AWS lab, we will convert video files to different formats using Lambda, S3, and Amazon Elastic Transcoder..
 
 Elastic Transcoder is a media service designed to be a highly scalable, easy-to-use, and cost-effective way to convert (or "transcode") media files from their source format into versions that will play back on devices like smartphones, tablets, and PCs.
 
